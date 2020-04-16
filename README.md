@@ -1,5 +1,5 @@
 # Pull-Request-Demo
-This repo will test the functionality of the GitHub App "Pull Request Validator App"
+This repo will be used to test the functionality of the GitHub App "Pull Request Validator App"
 TestPush-1
 TestPush-2
 TestPush-3
@@ -13,3 +13,4 @@ TestPush-7th-April
 TestPush-12-Branch-----12:36 PM IST
 TestPush-13-Branch-----03:54 PM IST
 Testing Custom PR Template
+Testing PR#43 auto close by bot upon PR open if jira in valid
